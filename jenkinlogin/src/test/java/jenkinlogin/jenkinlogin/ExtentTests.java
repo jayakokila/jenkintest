@@ -10,7 +10,7 @@ static ExtentReports report;
 @org.testng.annotations.BeforeClass
 public static void startTest()
 {
-report = new ExtentReports(System.getProperty("C:\\Users\\karth\\.eclipse")+"\\ExtentReportResults.html");
+report = new ExtentReports(System.getProperty("C:\\Users\\karth\\.eclipse")+("\\ExtentReportResults.html"));
 test = report.startTest("ExtentDemo");
 }
 @org.testng.annotations.Test
