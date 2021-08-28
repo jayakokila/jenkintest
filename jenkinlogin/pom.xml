@@ -34,7 +34,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
         <version>3.0.0-M4</version>
         <configuration>
             <suiteXmlFiles>
-                <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
+                <suiteXmlFile>C:\Users\karth\git\jenkintest\jenkinlogin\testng.xml</suiteXmlFile>
             </suiteXmlFiles>
         </configuration>        
     </plugin>   
